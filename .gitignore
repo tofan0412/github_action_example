@@ -1,4 +1,9 @@
 HELP.md
+
+.gradle/7.4.1
+.gradle/buildOutputCleanup
+.gradle/vcs-1
+
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
